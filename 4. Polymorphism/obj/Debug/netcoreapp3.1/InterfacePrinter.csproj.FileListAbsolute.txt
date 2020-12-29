@@ -1,0 +1,13 @@
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.exe
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.deps.json
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.runtimeconfig.json
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.runtimeconfig.dev.json
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.dll
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\bin\Debug\netcoreapp3.1\InterfacePrinter.pdb
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.csprojAssemblyReference.cache
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.AssemblyInfoInputs.cache
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.AssemblyInfo.cs
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.csproj.CoreCompileInputs.cache
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.dll
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.pdb
+E:\Kodingan Matkul Pemrograman (C#)\Polymorphism (interface)\InterfacePrinter\obj\Debug\netcoreapp3.1\InterfacePrinter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.exe
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.deps.json
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.runtimeconfig.json
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.runtimeconfig.dev.json
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.dll
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\bin\Debug\netcoreapp3.1\Interface Concept.pdb
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.csprojAssemblyReference.cache
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.AssemblyInfoInputs.cache
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.AssemblyInfo.cs
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.csproj.CoreCompileInputs.cache
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.dll
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.pdb
+E:\KODINGAN PEMROG C#\Interface\Interface Concept\obj\Debug\netcoreapp3.1\Interface Concept.genruntimeconfig.cache

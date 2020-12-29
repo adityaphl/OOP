@@ -1,0 +1,13 @@
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.exe
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.deps.json
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.runtimeconfig.json
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.runtimeconfig.dev.json
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.dll
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\bin\Debug\netcoreapp3.1\Abstraction Concept.pdb
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.csprojAssemblyReference.cache
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.AssemblyInfoInputs.cache
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.AssemblyInfo.cs
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.csproj.CoreCompileInputs.cache
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.dll
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.pdb
+E:\KODINGAN PEMROG C#\Abstraction\Abstraction Concept\obj\Debug\netcoreapp3.1\Abstraction Concept.genruntimeconfig.cache
